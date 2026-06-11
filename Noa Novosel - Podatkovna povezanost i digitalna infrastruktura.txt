@@ -1,4 +1,4 @@
 Ime i prezime: Noa Novosel
 Predmet: Podatkovna povezanost i digitalna infrastruktura
-GitHub: 
+GitHub: https://github.com/noa1novosel-afk/projketPWAPPDINOANOVOSEL.git
 YouTube: https://youtu.be/rd-VjanhwTk
