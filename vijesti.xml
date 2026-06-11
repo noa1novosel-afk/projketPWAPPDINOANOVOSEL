@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vijesti.xsl"?>
+<Vijesti>
+
+    <Vijest>
+        <Id>13</Id>
+        <Naslov>Pripreme za ribolovno natjecanje</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Natjecanja</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>DSC_0215-780x405.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>14</Id>
+        <Naslov>Mladi natjecatelji – budućnost društva</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Natjecanja</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>OIP (4).jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>15</Id>
+        <Naslov>Tradicija ribolova u Jastrebarskom</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Općenito</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>OIP (2).jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>16</Id>
+        <Naslov>Očuvanje voda i ribljeg fonda</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Općenito</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>51335604_1460491977416623_327675991453335552_n-1.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>18</Id>
+        <Naslov>Ribolov kao spoj sporta i prirode</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Općenito</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>maxresdefault.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>19</Id>
+        <Naslov>Pripreme za ribolovno natjecanje</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Natjecanja</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>srd-1.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>22</Id>
+        <Naslov>Deverika – čest stanovnik mirnih voda</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Ribe</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>deverika riba.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>23</Id>
+        <Naslov>Som – najveći grabežljivac naših voda</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Ribe</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>Som-1024x450.jpg</Slika>
+    </Vijest>
+
+    <Vijest>
+        <Id>24</Id>
+        <Naslov>Šaran – kralj sportskog ribolova</Naslov>
+        <Autor>Noa Novosel</Autor>
+        <Kategorija>Ribe</Kategorija>
+        <Datum>07.06.2026.</Datum>
+        <Slika>Common_carp_saran.jpg</Slika>
+    </Vijest>
+
+</Vijesti>
